@@ -5,7 +5,7 @@ Visit my LinkedIn profile:
 https://www.linkedin.com/in/amda-akhilesh-883383170/
 
 
-Basic requiremnts:
+Basic requirements:
 1: PyCharm Community Edition.
 2: opencv-python.  
 3: Required Library Files.
